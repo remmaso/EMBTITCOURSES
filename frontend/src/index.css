@@ -1,0 +1,156 @@
+img {
+  height: 300px;
+}
+main {
+  min-height: 80vh;
+}
+.social-container {
+  background: #c99e52;
+  padding: 10px 10px;
+  color: white;
+}
+body {
+  color: black;
+}
+
+h3 {
+  color: goldenrod;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+a.social:hover {
+  transform: translateY(-2px);
+}
+.social, h3{
+ color:white
+}
+a.youtube {
+  color: #eb3223;
+}
+
+a.facebook {
+  color: #4968ad;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.instagram {
+  color: black;
+}
+img {
+  height: 300px;
+}
+
+h3 {
+  padding: 1rem 0;
+  color:black;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+  
+}
+
+h2 {
+  font-size: 2.4rem;
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h2 {
+  color: #eee;
+}
+
+.carousel img {
+  height: 300px;
+  padding: 20px;
+  margin: 60px;
+  border-radius: 50%;
+}
+.carousel a {
+  margin: 0 auto;
+}
+#page-header {
+  height: 200px;
+  background: url('/images/images1/bg-image/image2.jpg');
+  background-position: 0-160px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#page-header2 {
+  width:930px;
+  height:600px;
+  border:1px solid #000;
+  position:relative;
+  background-image:url('/images/images1/bg-image/showcase.jpg');
+  background-repeat: no-repeat;
+  background-position: 0px 700px;
+  background-position:center center;
+  
+ }
+ .page-header2,h5{
+   color:#ff0000;
+ }
+
+.about-img {
+  margin-top:-50px;
+}
+
+#video-play {
+  width:930px;
+  height:300px;
+  position: relative;
+  min-height: 200px;
+  background: url('/images/images1/bg-image/media.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -100px;
+  text-align: center;
+  color: #fff;
+}
+
+#video-play a {
+  color: #fff;
+}
+
+#home-heading {
+  position: relative;
+  min-height: 50px;
+  background-image: url('/images/images1/bg-image/lights.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #eee;
+  font-size:x-large;
+}
+.home-heading,h1{
+  color:#eee;
+}
+
+#h2{
+  color:black;
+}
