@@ -126,7 +126,7 @@ const PlaceOrderScreen = ({ history }) => {
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
-                  <Col>Tax</Col>
+                  <Col>Vat:7.50%</Col>
                   <Col>NGN{cart.taxPrice}</Col>
                 </Row>
               </ListGroup.Item>
