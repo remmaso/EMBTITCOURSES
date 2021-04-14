@@ -25,8 +25,9 @@ a.social {
 a.social:hover {
   transform: translateY(-2px);
 }
-.social, h3{
- color:white
+.social,
+h3 {
+  color: white;
 }
 a.youtube {
   color: #eb3223;
@@ -49,13 +50,12 @@ img {
 
 h3 {
   padding: 1rem 0;
-  color:black;
+  color: black;
 }
 
 h1 {
   font-size: 1.8rem;
   padding: 1rem 0;
-  
 }
 
 h2 {
@@ -93,7 +93,7 @@ h2 {
 }
 #page-header {
   height: 200px;
-  background: url('/images/images1/bg-image/image2.jpg');
+  background: url("/images/images1/bg-image/image2.jpg");
   background-position: 0-160px;
   background-attachment: fixed;
   color: #fff;
@@ -102,30 +102,30 @@ h2 {
 }
 
 #page-header2 {
-  width:930px;
-  height:600px;
-  border:1px solid #000;
-  position:relative;
-  background-image:url('/images/images1/bg-image/showcase.jpg');
+  width: 930px;
+  height: 600px;
+  border: 1px solid #000;
+  position: relative;
+  background-image: url("/images/images1/bg-image/showcase.jpg");
   background-repeat: no-repeat;
   background-position: 0px 700px;
-  background-position:center center;
-  
- }
- .page-header2,h5{
-   color:#ff0000;
- }
+  background-position: center center;
+}
+.page-header2,
+h5 {
+  color: #ff0000;
+}
 
 .about-img {
-  margin-top:-50px;
+  margin-top: -50px;
 }
 
 #video-play {
-  width:930px;
-  height:300px;
+  width: 930px;
+  height: 300px;
   position: relative;
   min-height: 200px;
-  background: url('/images/images1/bg-image/media.jpg');
+  background: url("/images/images1/bg-image/media.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -100px;
@@ -140,17 +140,18 @@ h2 {
 #home-heading {
   position: relative;
   min-height: 50px;
-  background-image: url('/images/images1/bg-image/lights.jpg');
+  background-image: url("/images/images1/bg-image/lights.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
   color: #eee;
-  font-size:x-large;
+  font-size: x-large;
 }
-.home-heading,h1{
-  color:#eee;
+h1 {
+  color: #eee;
 }
 
-#h2{
-  color:black;
+.home-heading,
+h2 {
+  color: black;
 }

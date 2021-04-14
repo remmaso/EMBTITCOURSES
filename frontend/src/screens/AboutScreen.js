@@ -83,7 +83,7 @@ const About = () => {
           <div className="card bg-danger text-white text-center">
             <div className="card-body">
               <i className="fas fa-building fa-3x"></i>
-              <h3>Vision</h3>
+              <h1>Vision</h1>
               To serve the micro, mini and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices 
             </div>
           </div>
@@ -92,7 +92,7 @@ const About = () => {
           <div className="card bg-dark text-white text-center">
             <div className="card-body">
               <i className="fas fa-bullhorn fa-3x"></i>
-              <h3>Mission</h3>
+              <h1>Mission</h1>
               To provide cutting-edge, tailor-made but unique solutions to our varied clientele in a timely manner; always aware that one-size-fits-all don’t work in this segment of the market
             </div>
           </div>
@@ -101,7 +101,7 @@ const About = () => {
           <div className="card bg-danger text-white text-center">
             <div className="card-body">
               <i className="fas fa-comments fa-3x"></i>
-              <h3>Core Values</h3>
+              <h1>Core Values</h1>
               Excellence Modeled on Beauty, Transparency, Ethical values and good Conscience
             </div>
           </div>
