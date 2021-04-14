@@ -40,8 +40,7 @@ const HomeScreen = ({ match }) => {
     <div className="container">
       <div className="row">
         <div className="col-md-6 m-auto text-center">
-          <h2>Embtec Konzultz</h2>
-          <p><h5>Providing unique solution...</h5></p>
+          <h1>Providing unique solution...</h1>
         </div>
       </div>
     </div>
