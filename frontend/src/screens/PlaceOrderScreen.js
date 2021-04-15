@@ -96,7 +96,7 @@ const PlaceOrderScreen = ({ history }) => {
                           </Link>
                         </Col>
                         <Col md={4}>
-                          {item.qty} x NGN{item.price} = NGN{item.qty * item.price}
+                          {item.qty} x N{item.price} = N{item.qty * item.price}
                         </Col>
                       </Row>
                     </ListGroup.Item>
@@ -115,25 +115,31 @@ const PlaceOrderScreen = ({ history }) => {
               <ListGroup.Item>
                 <Row>
                   <Col>Items</Col>
-                  <Col>NGN{cart.itemsPrice}</Col>
+                  <Col>N{cart.itemsPrice}</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
                   <Col>Shipping</Col>
-                  <Col>NGN{cart.shippingPrice}</Col>
+                  <Col>N{cart.shippingPrice}</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
                   <Col>Vat:7.50%</Col>
-                  <Col>NGN{cart.taxPrice}</Col>
+                  <Col>N{cart.taxPrice}</Col>
+                </Row>
+              </ListGroup.Item>
+              <ListGroup.Item>
+                <Row>
+                  <Col>Credit</Col>
+                  <Col>N0.00</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
                 <Row>
                   <Col>Total</Col>
-                  <Col>NGN{cart.totalPrice}</Col>
+                  <Col>N{cart.totalPrice}</Col>
                 </Row>
               </ListGroup.Item>
               <ListGroup.Item>
