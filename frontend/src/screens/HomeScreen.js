@@ -40,7 +40,7 @@ const HomeScreen = ({ match }) => {
     <div className="container">
       <div className="row">
         <div className="col-md-6 m-auto text-center">
-          <h1>Providing unique solutions...</h1>
+          <h1>...Providing Unique Solutions</h1>
         </div>
       </div>
     </div>
@@ -51,7 +51,7 @@ const HomeScreen = ({ match }) => {
         <div className="col">
           <div className="container pt-5">
             <h1>JOIN US</h1>
-            <p className="d-md-block">Embtec is a very nimble organization that strives to provide tailor made business enterprises.Our solutions to micro and small scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporation. Join us @ EMBTEC, providing unique solutions......</p>
+            <p className="d-md-block">EMBTEC is a very nimble organization that strives to provide tailor made business to micro and small scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporation. Join us @ EMBTEC ...Providing Unique Solutions</p>
             </div>
           </div>
         </div>
@@ -78,12 +78,12 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-money-check-alt fa-4x"></i>
           <h3>Agent Banking</h3>
-          <p>Sending and recieving money</p>
+          <p>Send/Recieve Money, Pay Bills etc</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
           <h3>Computer Training</h3>
-          <p>Head start with basics of computer training and empowerment</p>
+          <p>Head-start with basics of computer training and empowerment</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-robot fa-4x"></i>
@@ -92,8 +92,8 @@ const HomeScreen = ({ match }) => {
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="far fa-save fa-4x"></i>
-          <h3>Drift and savings Scheme</h3>
-          <p>Start Savings for future</p>
+          <h3>Thrift and savings Scheme</h3>
+          <p> Savings for the Future</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-acquisitions-incorporated fa-4x"></i>
@@ -103,7 +103,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-microsoft fa-4x"></i>
           <h3>Software Development</h3>
-          <p>Using the latest Technology and Archtecture to develop a world class app</p>
+          <p>Using the latest Technology and Archtecture to develop a world class App</p>
            </div>
           </div>
         </div>
