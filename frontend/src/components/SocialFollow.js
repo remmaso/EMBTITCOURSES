@@ -18,10 +18,10 @@ export default function SocialFollow() {
                   <a href='/socialfollow/about'></a>
                     <h3>Contact Us</h3>
                    <h5> LOCATION:</h5>
-                  <i className="fa fa-road"></i>No 6,     Ogunfayo/Eputu, off Epe Express way, Ibeju Lekki Local Gov't, Lagos State, Nigeria
+                  <i className="fa fa-road"></i>No 6, Eputu-Ogunfayo Road, off Lekki-Epe Expressway, Eputu, Ibeju-Lekki, Lagos, Nigeria
                   <h5>PHONE:</h5>
-                  <p> <i className="fa fa-phone"></i>(234) 080  2222 2002</p>
-                   <i className="fa fa-phone"></i>(234) 070 8717 8201
+                  <p> <i className="fa fa-phone"></i>(234) 0802  222 2002</p>
+                   <i className="fa fa-phone"></i>(234) 0708 717 8201
                    <h5>Email:</h5>
                     <p><i className="fa fa-envelope"></i>info@embtec.com.ng</p>
                     
@@ -46,7 +46,7 @@ export default function SocialFollow() {
       </Row>
       </Container>
       
-      <Col i className='text-center py-3'>Copyright &copy; Embtec Konzultz 2021</Col>
+      <Col i className='text-center py-3'>Copyright &copy; EMBTEC Konzultz 2021</Col>
       </div>
   );
 }

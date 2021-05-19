@@ -93,7 +93,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="far fa-save fa-4x"></i>
           <h3>Thrift and savings Scheme</h3>
-          <p> Savings for the Future</p>
+          <p> Save for the Future</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-acquisitions-incorporated fa-4x"></i>

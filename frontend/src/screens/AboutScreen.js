@@ -10,7 +10,7 @@ const About = () => {
       <div className="row">
         <div className="col-md-6 m-auto text-center">
           <h1>About Us</h1>
-          <p>Embtec, Providing unique solutions... </p>
+          <p>EMBTEC...Providing Unique Solutions </p>
         </div>
       </div>
     </div>
@@ -51,9 +51,9 @@ const About = () => {
             <img src="/images/images1/boss.png" alt=""  className="/Image-fluid mb-3"/>
             </Col>
           <div className="col-md-6">
-          <h3>Mr Emmanuel Okoro</h3>
+          <h3>Emmanuel Okoro [FCA, FICA, M.Sc, KSJI ]</h3>
           <div><h3>FOUNDER/CEO</h3></div>
-          <p>Mr Okoro ( FCA, FICA, M.Sc, KSJI ) is a consummate Finance professional with over 26years stint in Accounting, Banking and Treasury Management garnered from Banking and Telecommunication industry-giants. Also, a passionate practitioner in the Health and Wellness industry.A family person, happily married to Lady Beatrice Chikamnele Okoro with three lovely daughters
+          <p>Emmanuel  is a consummate Finance professional with over 26years stint in Accounting, Banking and Treasury Management garnered from Banking and Telecommunication industry-giants. Also, a passionate practitioner in the Health and Wellness industry.A family person, happily married to Lady Beatrice Chikamnele Okoro with three lovely daughters
           A faith teacher who relaxes listening to good music and reading. 
         </p>
         </div>
@@ -70,7 +70,7 @@ const About = () => {
           <div className="col-md-6">
           <h3>Mr Ralph Emmason</h3>
           <div><h3>Software Engineer</h3></div>
-          <p>Mr Emmason, has Bachelor of Science-BS, Computer Science from  University of the Witwatersrand, Johannesburg, South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like Microsoft, Cisco and Banks, in the early days of internet banking he developed a transactionl saver application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK as a TOP Software Engineer. He is a Father 
+          <p>Mr Emmason, has a Bachelor of Science-BS degree, Computer Science from  University of the Witwatersrand, Johannesburg, South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like Microsoft, Cisco and Banks, in the early days of internet banking he developed a transactionl saver application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK as a TOP Software Engineer. He is a Father 
           </p>
         </div>
       </div>
@@ -84,7 +84,7 @@ const About = () => {
             <div className="card-body">
               <i className="fas fa-building fa-3x"></i>
               <h1>Vision</h1>
-              To serve the micro, mini and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices 
+              To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices 
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@ const About = () => {
       <div className="row">
         <div className="col">
           <div className="container pt-5">
-            <h1>Embtec Gallary</h1>
+            <h1>EMBTEC Gallery</h1>
             <p className="d-none d-md-block"></p>
           </div>
         </div>

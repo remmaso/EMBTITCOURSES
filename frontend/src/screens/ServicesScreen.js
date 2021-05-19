@@ -11,7 +11,7 @@ const Services = () => {
       <div className="row">
         <div className="col-md-6 m-auto text-center">
           <h1>Our Services</h1>
-          <p>Embtec, Providing unique solutions... </p>
+          <p>EMBTEC...Providing Unique Solutions </p>
         </div>
       </div>
     </div>
@@ -22,7 +22,7 @@ const Services = () => {
         <div className="col-md-6 m-auto text-center">
         <i className="fas fa-money-check-alt fa-4x"></i>
           <h1>Agent Banking</h1>
-          <p>Sending and recieving money</p>
+          <p>Send / Recieve Money, Pay-Bills etc</p>
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@ const Services = () => {
         <div className="col-md-6 m-auto text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
           <h1>Computer Training</h1>
-          <p>Head start with basics of computer training and empowerment</p>
+          <p>Head-start with basics of computer training and empowerment</p>
         </div>
       </div>
     </div>
@@ -54,8 +54,8 @@ const Services = () => {
       <div className="row">
         <div className="col-md-6 m-auto text-center">
         <i className="far fa-save fa-4x"></i>
-          <h1>Drift and savings</h1>
-          <p>Start Savings for future</p>
+          <h1>Thrift and Savings</h1>
+          <p>Save for the Future</p>
         </div>
       </div>
     </div>
@@ -76,7 +76,7 @@ const Services = () => {
       <div className="row">
         <div className="col-md-6 m-auto text-center">
         <h1>Software Development</h1>
-          <p>Using the latest Technology and Archtecture to develop a world class app</p>
+          <p>Using the latest Technology and Archtecture to develop a world-class App</p>
         </div>
       </div>
     </div>
