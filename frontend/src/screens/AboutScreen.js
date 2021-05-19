@@ -70,7 +70,7 @@ const About = () => {
           <div className="col-md-6">
           <h3>Mr Ralph Emmason</h3>
           <div><h3>Software Engineer</h3></div>
-          <p>Mr Emmason, has a Bachelor of Science-BS degree, Computer Science from  University of the Witwatersrand, Johannesburg, South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like Microsoft, Cisco and Banks, in the early days of internet banking he developed a transactionl saver application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK as a TOP Software Engineer. He is a Father 
+          <p>Mr Emmason, has a Bachelor of Science-BS degree in Computer Science from  University of the Witwatersrand, Johannesburg, He also holds a Diploma in Information Systems and Technology from JEPPE College Johannesburg all in South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like FNB(First National Bank of South Africa) Southern Focus Ltd, Liberty Life Insurance Company and Microsoft , in the early days of internet banking he developed a transactionl server application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK, as a TOP Software Engineer, He is a Microsoft Certified Partner (MCP) and an Associate Member of Computer Society of South Africa
           </p>
         </div>
       </div>
