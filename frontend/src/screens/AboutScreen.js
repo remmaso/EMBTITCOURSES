@@ -21,13 +21,10 @@ const About = () => {
       <div className="row">
         <div className="col-md-6">
           <h2>Who we Are</h2>
-          <p>Embtec Konzultz is a privately owned Consulting firm, which started business in October 2015, with the objective of focusing on customer service in the Thrift and Savings Scheme and Developing IT Hub for students and Corperates through building dynamic softwares with latest Technologies</p>
+          <p>EMBTEC Konzultz is a privately owned Consulting firm, which started business in October 2015, with the objective of focusing on customer service in the Thrift and Savings Scheme and Developing IT Hub for students and Corperates through building dynamic softwares with latest Technologies</p>
           <p>With unwavering passion for Performance Enhancing Corporate Culture, we focus majorly on  total IT Training and Certifications backed up with in-house Software Development which is aimed at transforming and re-defining the individual to positively impact the world.
 
             As we compete to become a global brand, we create class and impressionable branding for personalities and organisations by providing a rich blend of ethics, excellent service experience and best work practice and training that will leverage skills for the next century. </p>
-            <div className="col-md-6">
-          <img src="/https://source.unsplash.com/random/700x700/?technology" alt="" className="img-fluid rounded-circle d-none d-md-block about-img" />
-          </div>
         </div>
       </div>
     </div>
@@ -51,7 +48,7 @@ const About = () => {
             <img src="/images/images1/boss.png" alt=""  className="/Image-fluid mb-3"/>
             </Col>
           <div className="col-md-6">
-          <h3>Emmanuel Okoro [FCA, FICA, M.Sc, KSJI ]</h3>
+          <h3>Emmanuel Okoro </h3><h5>[FCA, FICA, M.Sc, KSJI ]</h5>
           <div><h3>FOUNDER/CEO</h3></div>
           <p>Emmanuel  is a consummate Finance professional with over 26years stint in Accounting, Banking and Treasury Management garnered from Banking and Telecommunication industry-giants. Also, a passionate practitioner in the Health and Wellness industry.A family person, happily married to Lady Beatrice Chikamnele Okoro with three lovely daughters
           A faith teacher who relaxes listening to good music and reading. 
@@ -70,7 +67,7 @@ const About = () => {
           <div className="col-md-6">
           <h3>Mr Ralph Emmason</h3>
           <div><h3>Software Engineer</h3></div>
-          <p>Mr Emmason, has a Bachelor of Science-BS degree in Computer Science from  University of the Witwatersrand, Johannesburg, He also holds a Diploma in Information Systems and Technology from JEPPE College Johannesburg all in South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like FNB(First National Bank of South Africa) Southern Focus Ltd, Liberty Life Insurance Company and Microsoft , in the early days of internet banking he developed a transactionl server application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK, as a TOP Software Engineer, He is a Microsoft Certified Partner (MCP) and an Associate Member of Computer Society of South Africa
+          <p>Mr Emmason, has a B.Sc degree in Computer Science from  University of the Witwatersrand, Johannesburg, He also holds a Diploma in Information Systems and Technology from JEPPE College Johannesburg all in South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like FNB(First National Bank of South Africa) Southern Focus Ltd, Liberty Life Insurance Company and Microsoft , in the early days of internet banking he developed a Transactionl Server application linking to e-wallet and eBay, that earned him an Award, he is rated by American international company UPWORK, as a TOP Software Engineer. He is a Microsoft Certified Partner (MCP) and an Associate Member of Computer Society of South Africa.
           </p>
         </div>
       </div>

@@ -51,7 +51,7 @@ const HomeScreen = ({ match }) => {
         <div className="col">
           <div className="container pt-5">
             <h1>JOIN US</h1>
-            <p className="d-md-block">EMBTEC is a very nimble organization that strives to provide tailor made business to micro and small scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporation. Join us @ EMBTEC ...Providing Unique Solutions</p>
+            <p className="d-md-block">EMBTEC is a very nimble organization that strives to provide tailor made business solutions to micro and small-scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporations. Join us @ EMBTEC ...Providing Unique Solutions</p>
             </div>
           </div>
         </div>
