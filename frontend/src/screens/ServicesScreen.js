@@ -33,7 +33,7 @@ const Services = () => {
         <div className="col-md-6 m-auto text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
           <h1>Computer Training</h1>
-          <p>Head-start with basics of computer training and empowerment</p>
+          <p>Head-start with basics of computer training </p>
         </div>
       </div>
     </div>
@@ -66,7 +66,7 @@ const Services = () => {
         <div className="col-md-6 m-auto text-center">
         <i className="fab fa-acquisitions-incorporated fa-4x"></i>
           <h1>Corporate Training</h1>
-        <p>Deliever training to the corporate world to enhance productivity</p>
+        <p>Deliver training to the corporate world</p>
         </div>
       </div>
     </div>

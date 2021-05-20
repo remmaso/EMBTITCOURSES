@@ -83,7 +83,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
           <h3>Computer Training</h3>
-          <p>Head-start with basics of computer training and empowerment</p>
+          <p>Head-start with basics of computer training</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-robot fa-4x"></i>
@@ -98,7 +98,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-acquisitions-incorporated fa-4x"></i>
           <h3>Corporate IT Training</h3>
-          <p>Deliever training to the corporate world to enhance productivity</p>
+          <p>Deliver training to the corporate world</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-microsoft fa-4x"></i>
