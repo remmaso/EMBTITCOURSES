@@ -12,8 +12,6 @@ import RegisterScreen from './screens/RegisterScreen'
 import ServicesScreen from './screens/ServicesScreen'
 import ProfileScreen from './screens/ProfileScreen'
 import ShippingScreen from './screens/ShippingScreen'
-import SoftwareScreen from './screens/SoftwareScreen'
-import ThriftScreen from './screens/ThriftScreen'
 import PaymentScreen from './screens/PaymentScreen'
 import PlaceOrderScreen from './screens/PlaceOrderScreen'
 import OrderScreen from './screens/OrderScreen'
@@ -31,7 +29,6 @@ const App = () => {
         <Container>
           <Route path='/order/:id' component={OrderScreen} />
           <Route path='/shipping' component={ShippingScreen} />
-          <Route path='/thrift' component={ThriftScreen} />
           <Route path='/payment' component={PaymentScreen} />
           <Route path='/placeorder' component={PlaceOrderScreen} />
           <Route path='/login' component={LoginScreen} />
