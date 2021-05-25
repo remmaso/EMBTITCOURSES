@@ -78,11 +78,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-money-check-alt fa-4x"></i>
           <h3>Agent Banking</h3>
-<<<<<<< HEAD
-          <p>Send/Receive Money, Pay Bills, Buy airtime etc</p>
-=======
-          <p>Send/Receive Money, Pay Bills etc</p>
->>>>>>> 92a7a47e17826ac7f87b4441692b1960d372d3d7
+          <p>Send / Receive Money, Pay Bills etc</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
@@ -97,12 +93,12 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="far fa-save fa-4x"></i>
           <h3>Thrift and savings Scheme</h3>
-          <p> Save for the future</p>
+          <p>Save for the future</p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-acquisitions-incorporated fa-4x"></i>
           <h3>Corporate IT Training</h3>
-          <p>Deliver training to the corporate world</p>
+          <p>Deliver training to the corporate world </p>
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-microsoft fa-4x"></i>
