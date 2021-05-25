@@ -22,7 +22,7 @@ const Services = () => {
         <div className="col-md-6 m-auto text-center">
         <i className="fas fa-money-check-alt fa-4x"></i>
           <h1>Agent Banking</h1>
-          <p>Send / Recieve Money, Pay-Bills etc</p>
+          <p>Send / Receive Money, Pay-Bills etc</p>
         </div>
       </div>
     </div>
