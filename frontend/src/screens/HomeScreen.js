@@ -78,7 +78,11 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-money-check-alt fa-4x"></i>
           <h3>Agent Banking</h3>
+<<<<<<< HEAD
           <p>Send/Receive Money, Pay Bills, Buy airtime etc</p>
+=======
+          <p>Send/Receive Money, Pay Bills etc</p>
+>>>>>>> 92a7a47e17826ac7f87b4441692b1960d372d3d7
         </div>
         <div className="col-md-4 mb-4 text-center">
         <i className="fas fa-laptop-code fa-4x"></i>
