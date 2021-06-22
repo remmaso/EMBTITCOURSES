@@ -19,7 +19,7 @@ export default function SocialFollow() {
                     <div className={"first"}>
                         <div className={"row"}>
                             <div className={"col-3 logo"}>
-                               <h5> Embtec Konzultz</h5>
+                               <h5> Embtec</h5>
                                </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Company</div>
