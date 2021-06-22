@@ -13,7 +13,7 @@ export default function SocialFollow() {
         <div className="social-container">
           <Container>
              <Row>
-             
+               <Col>
              <div className={"footer"}>
                 <div className={"container"}>
                     <div className={"first"}>
@@ -21,6 +21,7 @@ export default function SocialFollow() {
                             <div className={"col-3 logo"}>
                                <h5> Embtec</h5>
                                </div>
+                               
                             <div className={"col-3"}>
                                 <div className={"section"}>Company</div>
                                 <div className={"position active"}>About Us</div>
@@ -57,9 +58,8 @@ export default function SocialFollow() {
                 </div>
             </div>
             
-      
-
-      </Row>
+            </Col>
+          </Row>
       </Container>
       
       <Col i className='text-center py-3'>Copyright &copy; Embtec Konzultz 2021</Col>
