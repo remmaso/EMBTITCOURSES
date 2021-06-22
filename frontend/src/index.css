@@ -7,8 +7,64 @@ main {
 .social-container {
   background: #c99e52;
   padding: 10px 10px;
-  color: white;
+  color: black;
 }
+.social-container .container .first {
+  align-items: center;
+  min-height: 370px;
+  padding-top: 100px;
+}
+
+.social-container .container .second {
+  align-self: center;
+  border-top: 1px solid rgb(194, 194, 194, 0.2);
+  height: 92px;
+}
+
+.social-container .container .second > div {
+  align-self: center;
+  color: #e7ecf3;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.social-container .container .second > div > i {
+  background: #054afa;
+  border-radius: 50%;
+  height: 32px;
+  margin-left: 10px;
+  padding-top: 10px;
+  text-align: center;
+  width: 32px;
+}
+
+.social-container .logo {
+  color: #fff;
+  font-family: Nunito, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30px;
+}
+
+.social-container .section {
+  color: #fff;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.social-container .position {
+  color: #e7ecf3;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
+
 body {
   color: black;
 }
@@ -118,23 +174,6 @@ h5 {
 
 .about-img {
   margin-top: -50px;
-}
-
-#video-play {
-  width: 1110px;
-  height: 300px;
-  position: relative;
-  min-height: 200px;
-  background: url("/images/images1/bg-image/media.jpg");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: 0 -100px;
-  text-align: center;
-  color: #fff;
-}
-
-#video-play a {
-  color: #fff;
 }
 
 #home-heading {

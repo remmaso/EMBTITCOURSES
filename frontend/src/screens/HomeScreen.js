@@ -51,27 +51,24 @@ const HomeScreen = ({ match }) => {
         <div className="col">
           <div className="container pt-5">
             <h1>JOIN US</h1>
-            <p className="d-md-block">EMBTEC is a very nimble organization that strives to provide tailor made business solutions to micro and small-scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporations. Join us @ EMBTEC ...Providing Unique Solutions</p>
+            <p className="d-md-block">EMBTEC is a very nimble organization that strives to provide tailor-made business solutions to micro and small-scale enterprises.Our ability to provide such unique solutions is born out of the realization that upstarts have different needs which can't be fulfiled by traditional one-size-fits-all solution from established corporations. Join us @ EMBTEC ...Providing Unique Solutions</p>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <section id="video-play" class="p-5">
+    <section id="our-services" class="p-5">
     <div class="dark-overlay">
       <div class="row">
         <div class="col">
           <div class="container p-5">
-            <Link to="#" class="video" data-video="https://www.youtube.com/watch?v=CTZUOkvAqo0" data-toggle="modal" data-target="#videoModal">
-              <i class="fas fa-play fa-3x"></i>
-            </Link>
-            <h2>Our Services</h2>
+          <h2 className="text-center">We Render the following Services</h2>
           </div>
         </div>
       </div>
     </div>
   </section>
-    
+   
     <section id="home-icons" class="py-5">
     <div className="container grid-3">
       <div className="row">
@@ -103,7 +100,7 @@ const HomeScreen = ({ match }) => {
         <div className="col-md-4 mb-4 text-center">
         <i className="fab fa-microsoft fa-4x"></i>
           <h3>Software Development</h3>
-          <p>Using the latest Technology and Archtecture to develop a world class App</p>
+          <p>Using the latest Technology and Architecture to develop a world class App</p>
            </div>
           </div>
         </div>
@@ -129,10 +126,13 @@ const HomeScreen = ({ match }) => {
             page={page}
             keyword={keyword ? keyword : ''}
           />
-        </>
-      )}
+          
+          </>
+          )}
+          
     </>
   )
 }
+
 
 export default HomeScreen

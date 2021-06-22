@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import AboutScreen from './screens/AboutScreen'
 import { Container } from 'react-bootstrap'
 import Header from './components/Header'
+import AppScreen from './screens/AppScreen'
 import SocialFollow from './components/SocialFollow'
 import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
@@ -53,6 +54,7 @@ const App = () => {
           <Route path='/admin/product/:id/edit' component={ProductEditScreen} />
           <Route path='/admin/orderlist' component={OrderListScreen} />
           <Route path='/search/:keyword' component={HomeScreen} exact />
+          <Route path='/appscreen' component={AppScreen} />
           <Route path='socialfollow' components={SocialFollow} />
           <Route path='/page/:pageNumber' component={HomeScreen} exact />
           <Route
@@ -63,6 +65,7 @@ const App = () => {
           <Route path='/' component={HomeScreen} exact />
         </Container>
       </main>
+      <AppScreen />
       <SocialFollow />
     </Router>
   )

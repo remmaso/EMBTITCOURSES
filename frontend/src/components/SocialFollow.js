@@ -13,20 +13,58 @@ export default function SocialFollow() {
         <div className="social-container">
           <Container>
              <Row>
-             <Col i className='text-left py-3'><a href='/socialfollow/about'><h3>About Us</h3></a></Col>
-              <Col className='text-right py-3'>
-                  <a href='/socialfollow/about'></a>
-                    <h3>Contact Us</h3>
-                   <h5> LOCATION:</h5>
-                  <i className="fa fa-road"></i>No 6, Eputu-Ogunfayo Road, off Lekki-Epe Expressway, Eputu, Ibeju-Lekki, Lagos, Nigeria
-                  <h5>PHONE:</h5>
-                  <p> <i className="fa fa-phone"></i>(234) 0802  222 2002</p>
-                   <i className="fa fa-phone"></i>(234) 0708 717 8201
-                   <h5>Email:</h5>
-                    <p><i className="fa fa-envelope"></i>info@embtec.com.ng</p>
-                    
+             
+             <div className={"footer"}>
+                <div className={"container"}>
+                    <div className={"first"}>
+                        <div className={"row"}>
+                            <div className={"col-3 logo"}>
+                               <h5> Embtec Konzultz</h5>
+                               </div>
+                            <div className={"col-3"}>
+                                <div className={"section"}>Company</div>
+                                <div className={"position active"}>About Us</div>
+                                <div className={"position active"}>Services</div>
+                                <div className={"position active"}>F.A.Q</div>
+                                
+                            </div>
+                            <div className={"col-3"}>
+                                <div className={"section"}>Support</div>
+                                <div className={"position active"}>Blog</div>
+                                <div className={"position active"}>Careers</div>
+                                <div className={"position active"}>Privacy Policy</div>
+                                
+                                
+                            </div>
+                            <div className={"col-3"}>
+                                <div className={"section"}>Contact Us</div>
+                                <div className={"position active"}>info@embtec.com.ng</div>
+                                <div className={"position active"}>support@embtec.com.ng</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className={"row second"}>
+                        <div className={"col"}>
+                            
+                        </div>
+                        <div className={"col-auto"}>
+                        <i className="fa fa-facebook active" aria-hidden="true"/>
+                            <i className="fa fa-twitter active" aria-hidden="true"/>
+                            <i className="fa fa-instagram active" aria-hidden="true"/>
+                            <i className="fa fa-linkedin active" aria-hidden="true"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
             
-      <h3>US @</h3>
+      
+
+      </Row>
+      </Container>
+      
+      <Col i className='text-center py-3'>Copyright &copy; Embtec Konzultz 2021</Col>
+
+      
       <a href="https://www.youtube.com/channel/UCUR-bZgkSCVvpBVvlrXPegg"
   className="youtube social">
   <FontAwesomeIcon icon={faYoutube} size="2x" />
@@ -42,11 +80,7 @@ export default function SocialFollow() {
   className="instagram social">
   <FontAwesomeIcon icon={faInstagram} size="2x" />
 </a>
-        </Col>
-      </Row>
-      </Container>
-      
-      <Col i className='text-center py-3'>Copyright &copy; EMBTEC Konzultz 2021</Col>
       </div>
+      
   );
 }

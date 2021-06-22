@@ -317,7 +317,7 @@ const products = [
     numReviews: 0,
   },
   {
-    name: 'Digital Marketing',
+    name: 'Digital Training',
     image: '/images/digitalmarketing.png',
     description:
     'The student learns to make use of social media for marketing. The student understands Facebook and Instagram business application. The student is equally introduced to google MyBusiness application. The importance of search engine optimization (SEO), including paid searches and organic search.',
