@@ -1,6 +1,7 @@
 import React from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 import AboutScreen from './screens/AboutScreen'
+import BlogScreen from './screens/BlogScreen'
 import { Container } from 'react-bootstrap'
 import Header from './components/Header'
 import AppScreen from './screens/AppScreen'
@@ -8,6 +9,7 @@ import SocialFollow from './components/SocialFollow'
 import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
+import CareerScreen from './screens/CareerScreen'
 import LoginScreen from './screens/LoginScreen'
 import RegisterScreen from './screens/RegisterScreen'
 import ServicesScreen from './screens/ServicesScreen'
@@ -55,6 +57,8 @@ const App = () => {
           <Route path='/admin/orderlist' component={OrderListScreen} />
           <Route path='/search/:keyword' component={HomeScreen} exact />
           <Route path='/appscreen' component={AppScreen} />
+          <Route path='/blogscreen' component={BlogScreen} />
+          <Route path='careerscreen' component={CareerScreen}/>
           <Route path='socialfollow' components={SocialFollow} />
           <Route path='/page/:pageNumber' component={HomeScreen} exact />
           <Route

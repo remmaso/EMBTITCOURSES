@@ -24,23 +24,27 @@ export default function SocialFollow() {
                                
                             <div className={"col-3"}>
                                 <div className={"section"}>Company</div>
-                                <div className={"position active"}>About Us</div>
-                                <div className={"position active"}>Services</div>
-                                <div className={"position active"}>Remita</div>
+                                <div className={"position active"}><a href='/socialfollow/about'>About Us</a></div>
+                                <div className={"position active"}><a href='/services'>Services</a></div>
+                                <div className={"position active"}><a href='/remita'>Remita</a></div>
                                 
                             </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Support</div>
-                                <div className={"position active"}>Blog</div>
-                                <div className={"position active"}>Careers</div>
-                                <div className={"position active"}>Privacy Policy</div>
+                                <div className={"position active"}><a href='/blogscreen'>Blog</a></div>
+                                  
+                                <div className={"position active"}><a href='/careerscreen'>Careers</a></div>
+                                <div className={"position active"}><a href='/privacy'>Privacy Policy</a></div>
                                 
                                 
                             </div>
                             <div className={"col-3"}>
-                                <div className={"section"}>Contact Us</div>
-                                <div className={"position active"}>info@embtec.com.ng</div>
-                                <div className={"position active"}>support@embtec.com.ng</div>
+                                <div className={"section"}>Email Us @</div>
+                                <div className={"position active"}><a href='/#'>info@embtec.com.ng</a></div>
+                                <div className={"position active"}><a href='#'>support@embtec.com.ng</a></div>
+                                <div className={"position active"}>Phone</div>
+                                <p><i className='fa fa-phone'></i>+234 800 2222 2002</p>
+                                <i className='fa fa-phone'></i>+234 070 8717 8201
                             </div>
                         </div>
                     </div>
