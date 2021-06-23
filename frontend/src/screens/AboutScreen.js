@@ -113,7 +113,8 @@ const About = () => {
         <div className="col">
           <div className="container pt-5">
             <h1>EMBTEC Gallery</h1>
-            <p className="d-none d-md-block"></p>
+            <p className="d-none d-md-block"><h1>Vision</h1>
+              To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices </p>
           </div>
         </div>
       </div>

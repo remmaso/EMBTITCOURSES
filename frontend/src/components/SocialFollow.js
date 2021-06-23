@@ -42,9 +42,9 @@ export default function SocialFollow() {
                                 <div className={"section"}>Email Us @</div>
                                 <div className={"position active"}><a href='/#'>info@embtec.com.ng</a></div>
                                 <div className={"position active"}><a href='#'>support@embtec.com.ng</a></div>
-                                <div className={"position active"}>Phone</div>
-                                <p><i className='fa fa-phone'></i>+234 800 2222 2002</p>
-                                <i className='fa fa-phone'></i>+234 070 8717 8201
+                                <div className={"position active"}>Phone Us @</div>
+                                <p><i className='fa fa-phone'></i>+(234) 080 2222 2002</p>
+                                <i className='fa fa-phone'></i>+(234) 070 8717 8201
                             </div>
                         </div>
                     </div>
