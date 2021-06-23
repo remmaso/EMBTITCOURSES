@@ -26,7 +26,7 @@ export default function SocialFollow() {
                                 <div className={"section"}>Company</div>
                                 <div className={"position active"}><a href='/socialfollow/about'>About Us</a></div>
                                 <div className={"position active"}><a href='/services'>Services</a></div>
-                                <div className={"position active"}><a href='/remita'>Remita</a></div>
+                                <div className={"position active"}><a href='/remita'>F.A.Q</a></div>
                                 
                             </div>
                             <div className={"col-3"}>
