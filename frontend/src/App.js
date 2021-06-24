@@ -7,6 +7,7 @@ import Header from './components/Header'
 import AppScreen from './screens/AppScreen'
 import SocialFollow from './components/SocialFollow'
 import HomeScreen from './screens/HomeScreen'
+import JobScreen from './screens/JobScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
 import CareerScreen from './screens/CareerScreen'
@@ -60,6 +61,7 @@ const App = () => {
           <Route path='/search/:keyword' component={HomeScreen} exact />
           <Route path='/appscreen' component={AppScreen} />
           <Route path='/blogscreen' component={BlogScreen} />
+          <Route path='/job' component={JobScreen} />
           <Route path='careerscreen' component={CareerScreen}/>
           <Route path='socialfollow' components={SocialFollow} />
           <Route path='/page/:pageNumber' component={HomeScreen} exact />
