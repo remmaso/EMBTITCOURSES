@@ -26,14 +26,14 @@ export default function SocialFollow() {
                                 <div className={"section"}>Company</div>
                                 <div className={"position active"}><a href='/socialfollow/about'>About Us</a></div>
                                 <div className={"position active"}><a href='/services'>Services</a></div>
-                                <div className={"position active"}><a href='/remita'>F.A.Q</a></div>
+                                <div className={"position active"}><a href='/#'>F.A.Q</a></div>
                                 
                             </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Support</div>
                                 <div className={"position active"}><a href='/blogscreen'>Blog</a></div>
-                                <div className={"position active"}><a href='/socialfollow/career'>Careers</a></div>
-                                <div className={"position active"}><a href='/privacy'>Privacy Policy</a></div>
+                                <div className={"position active"}><a href='/#'>Careers</a></div>
+                                <div className={"position active"}><a href='/#'>Privacy Policy</a></div>
                                 
                                 
                             </div>
