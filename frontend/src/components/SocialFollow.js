@@ -13,7 +13,6 @@ export default function SocialFollow() {
         <div className="social-container">
           <Container>
              <Row>
-               <Col>
              <div className={"footer"}>
                 <div className={"container"}>
                     <div className={"first"}>
@@ -35,7 +34,7 @@ export default function SocialFollow() {
                                 <div className={"section"}>Support</div>
                                 <div className={"position active"}><a href='/blogscreen'>Blog</a></div>
                                 <div className={"position active"}><a href='/#'>Careers</a></div>
-                                <div className={"position active"}><a href='/job'>JOBS</a></div>
+                                <div className={"position active"}><a href='/job'>Jobs</a></div>
                                 <div className={"position active"}><a href='/#'>Privacy Policy</a></div>
                                 
                                 
@@ -64,7 +63,6 @@ export default function SocialFollow() {
                 </div>
             </div>
             
-            </Col>
           </Row>
       </Container>
       
