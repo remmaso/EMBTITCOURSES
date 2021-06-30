@@ -13,6 +13,7 @@ export default function SocialFollow() {
         <div className="social-container">
           <Container>
              <Row>
+               <Col>
              <div className={"footer"}>
                 <div className={"container"}>
                     <div className={"first"}>
@@ -33,8 +34,7 @@ export default function SocialFollow() {
                             <div className={"col-3"}>
                                 <div className={"section"}>Support</div>
                                 <div className={"position active"}><a href='/blogscreen'>Blog</a></div>
-                                <div className={"position active"}><a href='/#'>Careers</a></div>
-                                <div className={"position active"}><a href='/job'>Jobs</a></div>
+                                <div className={"position active"}><a href='/careerscreen'>Career</a></div>
                                 <div className={"position active"}><a href='/#'>Privacy Policy</a></div>
                                 
                                 
@@ -43,9 +43,6 @@ export default function SocialFollow() {
                                 <div className={"section"}>Email Us @</div>
                                 <div className={"position active"}><a href='/#'>info@embtec.com.ng</a></div>
                                 <div className={"position active"}><a href='#'>support@embtec.com.ng</a></div>
-                                <div className={"position active"}>Phone Us @</div>
-                                <p><i className='fa fa-phone'></i>234 802 222 2002</p>
-                                <i className='fa fa-phone'></i>234 708 717 8201
                             </div>
                         </div>
                     </div>
@@ -62,7 +59,7 @@ export default function SocialFollow() {
                     </div>
                 </div>
             </div>
-            
+            </Col>
           </Row>
       </Container>
       

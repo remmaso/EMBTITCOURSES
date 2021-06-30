@@ -194,3 +194,33 @@ h1 {
 h2 {
   color: black;
 }
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .social-container .container .first {
+    align-self: left;
+  }
+
+  .social-container .container .second {
+    align-self: left;
+  }
+
+  .social-container .container .second > div {
+    align-self: left;
+  }
+}
+
+@media (max-width: 500px) {
+  .social-container .container .first {
+    align-self: left;
+  }
+
+  .social-container .container .second {
+    align-self: left;
+  }
+
+  .social-container .container .second > div {
+    align-self: left;
+  }
+}

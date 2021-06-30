@@ -60,7 +60,7 @@ const HomeScreen = ({ match }) => {
             <div className="card-body">
               <i className="fas fa-building fa-3x"></i>
               <h1>Vision</h1>
-              To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices 
+              To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices
             </div>
           </div>
         </div>

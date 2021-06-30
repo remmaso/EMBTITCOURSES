@@ -1,7 +1,7 @@
 import React from 'react'
 
 const CareerScreen = () => {
-    return <div>Welcome to Career in Embtec</div>
+    return <div><h3>Sorry No Vacancy now, keep on checking</h3></div>
     
 }
 
