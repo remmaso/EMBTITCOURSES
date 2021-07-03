@@ -73,6 +73,22 @@ const About = () => {
       </div>
     </div>
   </section>
+  <section id="explore-section" class="bg-light text-muted py-5">
+    <div className="container">
+      <div className="row">
+      <Col className='text-left py-3'>
+            <img src="/images/images1/franc.png" alt=""  className="/Image-fluid mb-3"/>
+            </Col>
+          <div className="col-md-6">
+          <h3>Mr Francis Enemuo</h3>
+          <div><h3>Computer Tutor</h3></div>
+          <p>Mr Francis Enemuo is a Computer Instructor and Software Developer at Embtec Konzultz. He has trained over 200 trainees and students in Office Application using Microsoft and Google Suite.  He has certification in Mobile Web Development from Google, and other Web certification programs from Andela, Tunga, Coursera. His core skills are in HTML, CSS, JavaScript, Python, SQL. On his leisure, he prefers watching soccer and listening to news and sports podcast. 
+ 
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
   <section id="home-heading" class="p-5">
     <div className="dark-overlay">
       <div className="row">

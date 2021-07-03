@@ -43,6 +43,9 @@ export default function SocialFollow() {
                                 <div className={"section"}>Email Us @</div>
                                 <div className={"position active"}><a href='/#'>info@embtec.com.ng</a></div>
                                 <div className={"position active"}><a href='#'>support@embtec.com.ng</a></div>
+                                <div className={"position active"}>Phone Us @</div>
+                                <p><i className='fa fa-phone'></i>234 802 222 2002</p>
+                                <i className='fa fa-phone'></i>234 708 717 8201
                             </div>
                         </div>
                     </div>
