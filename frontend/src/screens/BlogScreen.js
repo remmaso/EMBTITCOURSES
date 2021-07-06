@@ -35,35 +35,43 @@ const BlogScreen = () => {
             <div className="container gride grid-3">
                 <div className="card flex">
                     <i className="fas fa-server fa-3x"></i>
-                    <p>dscjsHGCYJGHjadcdSMhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+                    <p>
+                        Sample
+                        dscjsHGCYJGHjadcdSMhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
                 </div>
             <div className="card flex">
                 <i className="fas fa-network-wired fa-3x"></i>
                 <p>
+                    Sample
                     dsjhdvakushvn vajiofyvanvfvuerolremgrenvbku;ahvbnjvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvhsdbv hgbdgdbdgdbvdbdfgdfgdvdbdbdgddbdndhdgddtdhydjdkdkdmfndcbbcjcmcmcmnbcbdbhdjddkkd,mdm,dndbddhhfhffndndnddjdjdhddbdbdnnddnjddjdjd
                 </p>
             </div>
             <div className="card flex">
                 <i className="fas fa-laptop-code fa-3x"></i>
                 <p>
+                    Sample
                     dshgcdsygjKGTKYcfkjcDYUCgewjcwegTEWUIYCDEHCIdASGHYUKGEVGCYEGTASCWJKHsuycuCGbjcugtaycfCJDCJKHGDUISHVJKDHGDSUYFDGTSDSJKCFSDHIOWHUYWEIUGEWHGHDSCGDSHDGSCGHEJEJKDSCDSYDTDGHDBDNDJDJDJDHDGVGASGSGGSGSS
                 </p>
             </div>
             <div className="card flex">
                 <i className="fas fa-database fa-3x"></i>
                 <p>
+                    Sample
                     dshgcdsygjKGTKYcfkjcDYUCgewjcwegTEWUIYCDEHCIdASGHYUKGEVGCYEGTASCWJKHsuycuCGbjcugtaycfCJDCJKHGDUISHVJKDHGDSUYFDGTSDSJKCFSDHIOWHUYWEIUGEWHGHDSCGDSHDGSCGHEJEJKDSCDSYDTDGHDBDNDJDJDJDHDGVGASGSGGSGSS
                 </p>
             </div>
             <div className="card flex">
                 <i className="fas fa-power-off fa-3x"></i>
                 <p>
+                    Sample
                     dshgcdsygjKGTKYcfkjcDYUCgewjcwegTEWUIYCDEHCIdASGHYUKGEVGCYEGTASCWJKHsuycuCGbjcugtaycfCJDCJKHGDUISHVJKDHGDSUYFDGTSDSJKCFSDHIOWHUYWEIUGEWHGHDSCGDSHDGSCGHEJEJKDSCDSYDTDGHDBDNDJDJDJDHDGVGASGSGGSGSS
                 </p>
             </div>
             <div className="card flex">
                 <i className="fas fa-upload fa-3x"></i>
                 <p>
+
+                    Sample 
                     dshgcdsygjKGTKYcfkjcDYUCgewjcwegTEWUIYCDEHCIdASGHYUKGEVGCYEGTASCWJKHsuycuCGbjcugtaycfCJDCJKHGDUISHVJKDHGDSUYFDGTSDSJKCFSDHIOWHUYWEIUGEWHGHDSCGDSHDGSCGHEJEJKDSCDSYDTDGHDBDNDJDJDJDHDGVGASGSGGSGSS
                 </p>
             </div>
