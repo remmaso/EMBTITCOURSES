@@ -7,7 +7,7 @@ const BlogScreen = () => {
             <section className="features-head bg-primary py-3">
                 <div className="container grid">
                     <div>
-                        <h1 classsName="x1">Features</h1>
+                        <h1 classsName="x1">Please Be patient this page is under  Construction</h1>
                         <p className="lead"><h6>
                             check out the features of Cloud Host
                             that sepaerate us from the competition</h6>
