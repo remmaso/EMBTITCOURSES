@@ -1,6 +1,9 @@
 img {
   height: 300px;
 }
+.img .images .image1 .logo {
+  height: 100px;
+}
 main {
   min-height: 80vh;
 }
@@ -139,9 +142,9 @@ h2 {
 }
 
 .carousel img {
-  height: 300px;
-  padding: 20px;
-  margin: 60px;
+  height: 400px;
+  padding: 0px;
+  margin: 0px;
   border-radius: 50%;
 }
 .carousel a {
@@ -158,7 +161,6 @@ h2 {
 }
 
 #page-header2 {
-  width: 1110px;
   height: 600px;
   border: 1px solid #000;
   position: relative;
