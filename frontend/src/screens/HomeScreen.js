@@ -97,7 +97,7 @@ const HomeScreen = ({ match }) => {
       <div class="row">
         <div class="col">
           <div class="container p-5">
-          <h2 className="text-center">We Render the following Services</h2>
+          <h2 className="text-center">Please be patient we are updating this Page</h2>
           </div>
         </div>
       </div>
