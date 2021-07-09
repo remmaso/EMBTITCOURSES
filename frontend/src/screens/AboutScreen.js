@@ -81,7 +81,7 @@ const About = () => {
             </Col>
           <div className="col-md-6">
           <h3>Mr Francis Enemuo</h3>
-          <div><h3>Computer Tutor</h3></div>
+          <div><h3>Computer Instructor</h3></div>
           <p>Mr Francis Enemuo is a Computer Instructor and Software Developer at Embtec Konzultz. He has trained over 200 trainees and students in Office Application using Microsoft and Google Suite.  He has certification in Mobile Web Development from Google, and other Web certification programs from Andela, Tunga, Coursera. His core skills are in HTML, CSS, JavaScript, Python, SQL. On his leisure, he prefers watching soccer and listening to news and sports podcast. 
  
           </p>

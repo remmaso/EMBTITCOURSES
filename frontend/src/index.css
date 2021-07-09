@@ -1,8 +1,5 @@
 img {
-  height: 300px;
-}
-.img .images .image1 .logo {
-  height: 100px;
+  height: 60px;
 }
 main {
   min-height: 80vh;
@@ -164,7 +161,8 @@ h2 {
   height: 600px;
   border: 1px solid #000;
   position: relative;
-  background-image: url("/images/images1/bg-image/showcase.jpg");
+  margin: 0px;
+  background-image: url("/images/images1/bg-image/showcase2.jpg");
   background-repeat: no-repeat;
   background-position: 0px 700px;
   background-position: center center;
