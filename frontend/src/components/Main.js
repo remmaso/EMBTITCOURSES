@@ -5,15 +5,6 @@ import React from 'react'
 const main = () => {
     return (
         <main>
-            <header id="page-header2">
-    <div className="container">
-      <div className="row">
-        <div className="col-md-6 m-auto text-center">
-          <h1>...Providing Unique Solutions</h1>
-        </div>
-      </div>
-    </div>
-  </header>
   <section id="home-heading" class="p-5"></section>
   <section id="home-heading" class="p-5">
   <div className="dark-overlay">
