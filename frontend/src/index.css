@@ -201,6 +201,9 @@ h2 {
   .social-container .container .first {
     align-self: left;
   }
+  .page-header2 {
+    align-self: center;
+  }
 
   .social-container .container .second {
     align-self: left;
@@ -214,6 +217,10 @@ h2 {
 @media (max-width: 500px) {
   .social-container .container .first {
     align-self: left;
+  }
+
+  .page-header2 {
+    align-self: center;
   }
 
   .social-container .container .second {
