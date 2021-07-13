@@ -69,7 +69,6 @@ const App = () => {
           <Route path='/' component={HomeScreen}  exact/>
         </Container>
       </main>
-      <AppScreen />
       <SocialFollow />
     </Router>
   )
