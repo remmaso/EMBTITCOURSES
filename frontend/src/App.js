@@ -4,7 +4,6 @@ import AboutScreen from './screens/AboutScreen'
 import BlogScreen from './screens/BlogScreen'
 import { Container } from 'react-bootstrap'
 import Header from './components/Header'
-import Main from './components/Main'
 import AppScreen from './screens/AppScreen'
 import SocialFollow from './components/SocialFollow'
 import HomeScreen from './screens/HomeScreen'
@@ -30,7 +29,6 @@ const App = () => {
   return (
     <Router>
       <Header />
-      <Main />
       <main className='py-3'>
         <Container>
           <Route path='/order/:id' component={OrderScreen} />
