@@ -4,7 +4,6 @@ import AboutScreen from './screens/AboutScreen'
 import BlogScreen from './screens/BlogScreen'
 import { Container } from 'react-bootstrap'
 import Header from './components/Header'
-import SocialFollow from './components/SocialFollow'
 import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
@@ -59,7 +58,6 @@ const App = () => {
           <Route path='/search/:keyword' component={HomeScreen}  exact/>
           <Route path='/blogscreen' component={BlogScreen} />
           <Route path='careerscreen' component={CareerScreen}/>
-          <Route path='socialfollow' components={SocialFollow} />
           <Route path='/page/:pageNumber' component={HomeScreen} exact/>
           <Route
             path='/search/:keyword/page/:pageNumber'
@@ -69,7 +67,6 @@ const App = () => {
           <Route path='/' component={HomeScreen}  exact/>
         </Container>
       </main>
-      <SocialFollow />
     </Router>
   )
 }
