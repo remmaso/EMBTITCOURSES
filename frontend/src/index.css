@@ -194,6 +194,72 @@ h1 {
 h2 {
   color: black;
 }
+/* footer */
+
+.footer {
+  background: #0c152e;
+  bottom: 0;
+  color: #fff;
+  left: 0;
+  min-height: 463px;
+  width: 100%;
+}
+
+.footer .container .first {
+  align-items: center;
+  min-height: 370px;
+  padding-top: 100px;
+}
+
+.footer .container .second {
+  align-self: center;
+  border-top: 1px solid rgba(194, 194, 194, 0.2);
+  height: 92px;
+}
+
+.footer .container .second > div {
+  align-self: center;
+  color: #e7ecf3;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.footer .container .second > div > i {
+  background: #054afa;
+  border-radius: 50%;
+  height: 32px;
+  margin-left: 10px;
+  padding-top: 10px;
+  text-align: center;
+  width: 32px;
+}
+
+.footer .logo {
+  color: #fff;
+  font-family: Nunito, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30px;
+}
+
+.footer .section {
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.footer .position {
+  color: #e7ecf3;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+}
 
 /* Mobile */
 
@@ -213,7 +279,6 @@ h2 {
     align-self: left;
   }
 }
-
 @media (max-width: 500px) {
   .social-container .container .first {
     align-self: left;

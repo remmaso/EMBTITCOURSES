@@ -8,6 +8,7 @@ import HomeScreen from './screens/HomeScreen'
 import ProductScreen from './screens/ProductScreen'
 import CartScreen from './screens/CartScreen'
 import CareerScreen from './screens/CareerScreen'
+import Footer from './components/Footer'
 import LoginScreen from './screens/LoginScreen'
 import RegisterScreen from './screens/RegisterScreen'
 import ServicesScreen from './screens/ServicesScreen'
@@ -40,6 +41,7 @@ const App = () => {
           <Route path='/profile' component={ProfileScreen} />
           <Route path='/product/:id' component={ProductScreen} />
           <Route path='/cart/:id?' component={CartScreen} />
+          <Route path='/footer' component={Footer} />
           <Route path='/socialfollow/about' component={AboutScreen} />
           <Route path='/admin/userlist' component={UserListScreen} />
           <Route path='/admin/user/:id/edit' component={UserEditScreen} />
@@ -67,6 +69,7 @@ const App = () => {
           <Route path='/' component={HomeScreen}  exact/>
         </Container>
       </main>
+      <Footer />
     </Router>
   )
 }
