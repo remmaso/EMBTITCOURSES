@@ -99,6 +99,7 @@ const About = () => {
               Information Technology Skills  and Certification that is globally recognized in the industry by registering with us. Today!</p>
           </div>
         </div>
+        <a href="https://embtec.com.ng/aboutus"></a>
       </div>
     </div>
   </section>
