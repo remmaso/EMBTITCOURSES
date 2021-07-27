@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import {LinkContainer} from 'react-router-bootstrap'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faYoutube,
@@ -21,14 +22,24 @@ class Footer extends Component {
                             </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Company</div>
-                                <div className={"position active"}>About Us</div>
+                                <LinkContainer to='/footer/about'>
+                                 <div className={"position active"}>About Us</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/career'>
                                 <div className={"position active"}>Careers</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/Pricing'>
                                 <div className={"position active"}>Pricing</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/meetus'>
                                 <div className={"position active"}>Meet us</div>
+                                </LinkContainer>
                             </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Knowledge</div>
+                                <LinkContainer to='/footer/BlogScreen'>
                                 <div className={"position active"}>Blog</div>
+                                </LinkContainer>
                                 <div className={"position active"}>Help Center</div>
                                 <div className={"position active"}>Privacy Policy</div>
                                 <div className={"position active"}>Terms and conditions</div>

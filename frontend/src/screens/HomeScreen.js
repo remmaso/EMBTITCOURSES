@@ -52,7 +52,7 @@ const HomeScreen = ({ match }) => {
             <div className="card-body">
               <i className="fas fa-building fa-3x"></i>
               <h1>Vision</h1>
-              To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices
+              <p>To serve the mini, micro and small-scale enterprises (MMSE) and persons whose needs may not adequately be met by/through conventional Institutions/practices</p>
             </div>
           </div>
         </div>
@@ -61,7 +61,7 @@ const HomeScreen = ({ match }) => {
             <div className="card-body">
               <i className="fas fa-bullhorn fa-3x"></i>
               <h1>Mission</h1>
-              To provide cutting-edge, tailor-made but unique solutions to our varied clientele in a timely manner; always aware that one-size-fits-all don’t work in this segment of the market
+              <p>To provide cutting-edge, tailor-made but unique solutions to our varied clientele in a timely manner; always aware that one-size-fits-all don’t work in this segment of the market</p>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@ const HomeScreen = ({ match }) => {
             <div className="card-body">
               <i className="fas fa-comments fa-3x"></i>
               <h1>Core Values</h1>
-              Excellence Modeled on Beauty, Transparency, Ethical values and good Conscience
+             <p> Excellence Modeled on Beauty, Transparency, Ethical values and good Conscience</p>
             </div>
           </div>
         </div>
