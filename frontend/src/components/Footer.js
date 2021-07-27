@@ -1,4 +1,12 @@
 import React, {Component} from 'react'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faYoutube,
+  faFacebook,
+  faTwitter,
+  faInstagram
+} from "@fortawesome/free-brands-svg-icons";
+
 
 class Footer extends Component {
 
@@ -37,12 +45,22 @@ class Footer extends Component {
                         <div className={"col"}>
                             Embtec 2021 All rights reserved
                         </div>
-                        <div className={"col-auto"}>
-                            <i className="fa fa-facebook active" aria-hidden="true"/>
-                            <i className="fa fa-twitter active" aria-hidden="true"/>
-                            <i className="fa fa-instagram active" aria-hidden="true"/>
-                            <i className="fa fa-linkedin active" aria-hidden="true"/>
-                        </div>
+                        
+                        <a href="https://www.youtube.com/channel/UCUR-bZgkSCVvpBVvlrXPegg"
+                        className="youtube social">
+                        <FontAwesomeIcon icon={faYoutube} size="2x" />
+                            </a>
+                        <a href="https://www.facebook.com/embteckonzultz/"
+                         className="facebook social">
+                        <FontAwesomeIcon icon={faFacebook} size="2x" />
+                        </a>
+                        <a href="https://twitter.com/embteckonzultz" className="twitter social">
+                        <FontAwesomeIcon icon={faTwitter} size="2x" />
+                        </a>
+                        <a href="https://www.instagram.com/embteckonzultz/"
+                        className="instagram social">
+                        <FontAwesomeIcon icon={faInstagram} size="2x" />
+                        </a>
                     </div>
                 </div>
             </div>
