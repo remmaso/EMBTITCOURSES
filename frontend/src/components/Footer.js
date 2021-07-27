@@ -54,7 +54,7 @@ class Footer extends Component {
                     </div>
                     <div className={"row second"}>
                         <div className={"col"}>
-                            Embtec 2021 All rights reserved
+                         Embtec 2015 - 2021 All rights reserved
                         </div>
                         
                         <a href="https://www.youtube.com/channel/UCUR-bZgkSCVvpBVvlrXPegg"
