@@ -40,15 +40,27 @@ class Footer extends Component {
                                 <LinkContainer to='/footer/BlogScreen'>
                                 <div className={"position active"}>Blog</div>
                                 </LinkContainer>
+                                <LinkContainer to='/footer/helpcenter'>
                                 <div className={"position active"}>Help Center</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/privacypolicy'>
                                 <div className={"position active"}>Privacy Policy</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/terms'>
                                 <div className={"position active"}>Terms and conditions</div>
+                                </LinkContainer>
                             </div>
                             <div className={"col-3"}>
                                 <div className={"section"}>Account</div>
+                                <LinkContainer to='/footer/sign'>
                                 <div className={"position active"}>Sign in</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/register'>
                                 <div className={"position active"}>Register</div>
+                                </LinkContainer>
+                                <LinkContainer to='/footer/register'>
                                 <div className={"position active"}>F.A.Q.</div>
+                                </LinkContainer>
                             </div>
                         </div>
                     </div>
