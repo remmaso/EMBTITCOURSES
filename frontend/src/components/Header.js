@@ -19,7 +19,7 @@ const Header = () => {
     <header>
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
-          <LinkContainer to='/https://embteckonzultzapp.herokuapp.com/'>
+          <LinkContainer to='/'>
             <Navbar.Brand>Embtec Konzultz</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
