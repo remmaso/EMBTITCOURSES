@@ -15,12 +15,11 @@ const Header = () => {
   const logoutHandler = () => {
     dispatch(logout())
   }
-
   return (
     <header>
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
-          <LinkContainer to='/'>
+          <LinkContainer to='https://embteckonzultzapp.herokuapp.com/'>
             <Navbar.Brand>Embtec Konzultz</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />

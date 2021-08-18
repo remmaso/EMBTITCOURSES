@@ -49,9 +49,7 @@ const HomeScreen = ({ match }) => {
         </div>
       </div>
       </section>
-  
-  
-   <section id="our-services" class="p-5">
+  <section id="our-services" class="p-5">
     <div class="dark-overlay">
       <div class="row">
         <div class="col">
@@ -62,8 +60,7 @@ const HomeScreen = ({ match }) => {
       </div>
     </div>
   </section>
-   
-    <section id="home-icons" class="py-5">
+   <section id="home-icons" class="py-5">
     <div className="container grid-3">
       <div className="row">
         <div className="col-md-4 mb-4 text-center">
